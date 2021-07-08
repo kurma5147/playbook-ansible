@@ -1,0 +1,5 @@
+---
+hosts: all
+ task:
+- name: my ping is in control
+  ping:
